@@ -229,7 +229,6 @@ MIT License - Use freely for commercial or personal projects.
 
 ## 🙏 Credits
 
-Developed by **Antigravity** (20-year veteran developer) using:
 - Playwright (browser automation)
 - BeautifulSoup4 (HTML parsing)
 - TailwindCSS (report styling)
@@ -239,3 +238,4 @@ Developed by **Antigravity** (20-year veteran developer) using:
 **Version:** 1.0  
 **Last Updated:** December 2025  
 **Status:** Production-Ready ✅
+
